@@ -170,11 +170,14 @@ navbar_items = [
     { code = "en", nav_items = [
         { url = "$BASE_URL/", name = "Home" },
         { url = "$BASE_URL/posts", name = "Posts" },
+	{ url = "$BASE_URL/beats", name = "Beats"},
+	{ url = "$BASE_URL/music", name = "Music"},
 	{ url = "$BASE_URL/podcast", name = "Podcast"},
        # { url = "$BASE_URL/docs", name = "Docs" },
        # { url = "$BASE_URL/tags", name = "Tags" },
-       # { url = "$BASE_URL/categories", name = "Categories" },
-	{ url = "$BASE_URL/donate", name = "Donate"}
+       #{ url = "$BASE_URL/categories", name = "Categories" },
+	{ url = "$BASE_URL/donate", name = "Donate"},
+	{ url = "$BASE_URL/tags", name = "Tags" }
     ] },
 ]
 

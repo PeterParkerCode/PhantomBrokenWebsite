@@ -6,4 +6,4 @@ The Brew Of Life Show is a podcast made by PhantomBroken back in May 2019 with i
 [Anchor](https://anchor.fm/thebrewoflifeshow),
 [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-brew-of-life-show/id1464622770?uo=4), 
 [Spotify](https://podcasts.apple.com/us/podcast/the-brew-of-life-show/id1464622770?uo=4) and more. Currently, The Brew Of Life Show has been on a hiatus for a while, due to personal reasons that I've been going through in my life. Though hopefully someday, if the time is right it will be back!
-
+<iframe src="https://anchor.fm/thebrewoflifeshow/embed/episodes/Where-Has-TBOLS-Been--Its-been-a-minute-e1i1da3" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
